@@ -1,4 +1,3 @@
-Aqui está a documentação atualizada com as bibliotecas que decidimos usar, incluindo detalhes sobre o uso de cada uma no projeto:
 
 ---
 
