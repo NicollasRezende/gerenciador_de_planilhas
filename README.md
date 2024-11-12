@@ -1,3 +1,4 @@
+
 ---
 
 # Documentação do Projeto - Gerenciador de Planilhas
