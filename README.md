@@ -492,5 +492,5 @@ def read_logs():
 
 Este projeto oferece uma solução completa e escalável para gestão de inventário, com autenticação segura, controle de permissões, visualização de dados e exportação. É adequado para ambientes que exigem rastreabilidade, acesso controlado e relatórios detalhados, mantendo todos os registros organizados e facilmente acessíveis.
 
-Infelizmente, o projeto foi descontinuado devido à falta de tempo para manutenção e desenvolvimento contínuo. Agradecemos a todos que contribuíram para o desenvolvimento deste projeto e esperamos que o código e a documentação fornecidos possam ser úteis para outros desenvolvedores e projetos futuros.
-```
+Infelizmente, o projeto foi descontinuado devido à falta de tempo para manutenção e desenvolvimento contínuo. espero que o código e a documentação fornecidos possam ser úteis para outros desenvolvedores e projetos futuros.
+
