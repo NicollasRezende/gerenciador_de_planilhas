@@ -190,11 +190,6 @@ python-dateutil==2.8.2
 
 5. **Dashboard e Exportação**: O administrador visualiza e analisa dados em tempo real com gráficos e tem a opção de exportar relatórios no formato Excel para consulta ou backup.
 
-### Justificativa para Descontinuação
-
-Infelizmente, o projeto `Gerenciador de Planilhas` foi descontinuado devido à falta de tempo para manutenção e desenvolvimento contínuo. Embora o sistema tenha sido projetado para ser uma solução completa e escalável para gestão de inventário, com autenticação segura, controle de permissões, visualização de dados e exportação, a equipe responsável não pôde continuar com o suporte necessário para garantir sua evolução e estabilidade.
-
-Agradecemos a todos que contribuíram para o desenvolvimento deste projeto e esperamos que o código e a documentação fornecidos possam ser úteis para outros desenvolvedores e projetos futuros.
 
 ---
 
@@ -492,5 +487,11 @@ def read_logs():
 
 Este projeto oferece uma solução completa e escalável para gestão de inventário, com autenticação segura, controle de permissões, visualização de dados e exportação. É adequado para ambientes que exigem rastreabilidade, acesso controlado e relatórios detalhados, mantendo todos os registros organizados e facilmente acessíveis.
 
-Infelizmente, o projeto foi descontinuado devido à falta de tempo para manutenção e desenvolvimento contínuo. espero que o código e a documentação fornecidos possam ser úteis para outros desenvolvedores e projetos futuros.
+
+### Justificativa para Descontinuação
+
+Infelizmente, o projeto `Gerenciador de Planilhas` foi descontinuado devido à falta de tempo para manutenção e desenvolvimento contínuo. Embora o sistema tenha sido projetado para ser uma solução completa e escalável para gestão de inventário, com autenticação segura, controle de permissões, visualização de dados e exportação,eu não pude continuar com o suporte necessário para garantir sua evolução e estabilidade.
+
+
+Espero que o código e a documentação fornecidos possam ser úteis para outros desenvolvedores e projetos futuros.
 
